@@ -1,4 +1,8 @@
 # House-Price-Prediction-Model
+
+![](https://raw.githubusercontent.com/HusainKagalwala07/House-Price-Prediction-Model/master/housepred.png)
+
+
 Machine Learning Model, for approximate prediction of a price of the house based on 13 features that are found in the datasets, which uses the parameters to determine the approximate price of the house to be sold for various parameters.
 
 1.	 AGE - The proportion of owner-occupied units built prior to 1940
